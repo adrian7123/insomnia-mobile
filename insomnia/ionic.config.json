@@ -1,0 +1,7 @@
+{
+  "name": "insomnia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
